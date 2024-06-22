@@ -1,0 +1,44 @@
+D:\Курсовая\1\1\Sowt\Users\Users\bin\Debug\Users.exe.config
+D:\Курсовая\1\1\Sowt\Users\Users\bin\Debug\Users.exe
+D:\Курсовая\1\1\Sowt\Users\Users\bin\Debug\Users.pdb
+D:\Курсовая\1\1\Sowt\Users\Users\bin\Debug\MaterialDesignColors.dll
+D:\Курсовая\1\1\Sowt\Users\Users\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Курсовая\1\1\Sowt\Users\Users\bin\Debug\MaterialDesignColors.pdb
+D:\Курсовая\1\1\Sowt\Users\Users\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Курсовая\1\1\Sowt\Users\Users\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Курсовая\1\1\Sowt\Users\Users\obj\Debug\Users.csprojAssemblyReference.cache
+D:\Курсовая\1\1\Sowt\Users\Users\obj\Debug\MainWindow.g.cs
+D:\Курсовая\1\1\Sowt\Users\Users\obj\Debug\App.g.cs
+D:\Курсовая\1\1\Sowt\Users\Users\obj\Debug\Users_MarkupCompile.cache
+D:\Курсовая\1\1\Sowt\Users\Users\obj\Debug\Users_MarkupCompile.lref
+D:\Курсовая\1\1\Sowt\Users\Users\obj\Debug\App.baml
+D:\Курсовая\1\1\Sowt\Users\Users\obj\Debug\MainWindow.baml
+D:\Курсовая\1\1\Sowt\Users\Users\obj\Debug\Users.g.resources
+D:\Курсовая\1\1\Sowt\Users\Users\obj\Debug\Users.Properties.Resources.resources
+D:\Курсовая\1\1\Sowt\Users\Users\obj\Debug\Users.csproj.GenerateResource.cache
+D:\Курсовая\1\1\Sowt\Users\Users\obj\Debug\Users.csproj.CoreCompileInputs.cache
+D:\Курсовая\1\1\Sowt\Users\Users\obj\Debug\Users.csproj.CopyComplete
+D:\Курсовая\1\1\Sowt\Users\Users\obj\Debug\Users.exe
+D:\Курсовая\1\1\Sowt\Users\Users\obj\Debug\Users.pdb
+D:\Универ всякое\Курсовая\Users\Users\bin\Debug\Users.exe.config
+D:\Универ всякое\Курсовая\Users\Users\bin\Debug\Users.exe
+D:\Универ всякое\Курсовая\Users\Users\bin\Debug\Users.pdb
+D:\Универ всякое\Курсовая\Users\Users\bin\Debug\MaterialDesignColors.dll
+D:\Универ всякое\Курсовая\Users\Users\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Универ всякое\Курсовая\Users\Users\bin\Debug\MaterialDesignColors.pdb
+D:\Универ всякое\Курсовая\Users\Users\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Универ всякое\Курсовая\Users\Users\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Универ всякое\Курсовая\Users\Users\obj\Debug\Users.csproj.AssemblyReference.cache
+D:\Универ всякое\Курсовая\Users\Users\obj\Debug\MainWindow.g.cs
+D:\Универ всякое\Курсовая\Users\Users\obj\Debug\App.g.cs
+D:\Универ всякое\Курсовая\Users\Users\obj\Debug\Users_MarkupCompile.cache
+D:\Универ всякое\Курсовая\Users\Users\obj\Debug\Users_MarkupCompile.lref
+D:\Универ всякое\Курсовая\Users\Users\obj\Debug\App.baml
+D:\Универ всякое\Курсовая\Users\Users\obj\Debug\MainWindow.baml
+D:\Универ всякое\Курсовая\Users\Users\obj\Debug\Users.g.resources
+D:\Универ всякое\Курсовая\Users\Users\obj\Debug\Users.Properties.Resources.resources
+D:\Универ всякое\Курсовая\Users\Users\obj\Debug\Users.csproj.GenerateResource.cache
+D:\Универ всякое\Курсовая\Users\Users\obj\Debug\Users.csproj.CoreCompileInputs.cache
+D:\Универ всякое\Курсовая\Users\Users\obj\Debug\Users.csproj.CopyComplete
+D:\Универ всякое\Курсовая\Users\Users\obj\Debug\Users.exe
+D:\Универ всякое\Курсовая\Users\Users\obj\Debug\Users.pdb
